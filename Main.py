@@ -1,7 +1,6 @@
 # ------------------------------------------------------------------------ #
 # Title: Assignment09 Main
 # Description: Working with Modules
-
 # ChangeLog (Who,When,What):
 # RRoot,1.1.2030,Created started script
 # RRoot,1.1.2030,Added pseudo-code to start assignment 09
